@@ -1,2 +1,10 @@
-# Extract-Information-from-Log-files-using-Python
-Category: Python program - Subject: This project with only and only one script is used to extract data from a determined log files, stored in Linux system 
+# Extract data from Log file and Parse it using Python
+
+### Project Description
+In this project I designed a python script to parse a log file (file.log) and extract determined data for a determined fields of the file.
+
+### Directory structure
+* In /src you can find the source code of the script.
+* In /output you can find an example of the output after running the script
+* In /data you can find the log file to be parsed.
+
