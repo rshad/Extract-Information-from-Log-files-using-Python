@@ -1,0 +1,6 @@
+The last alert of 2018/01/14
+------------------ 
+Rule:  554 
+Level:  5
+Log file:  /etc/cron.d/php
+Timestamp: {'time': '00:00:48', 'month': 1, 'day': 14, 'year': 2018}

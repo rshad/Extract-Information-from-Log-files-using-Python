@@ -1,0 +1,125 @@
+** Alert 1515884442.0: - ossec,syscheck,pci_dss_11.5,gpg13_4.11,
+2018 Jan 14 00:00:42 rshad->syscheck
+Rule: 554 (level 5) -> 'File added to the system.'
+New file '/etc/default/apache-htcacheclean' added to the file system.
+File: /etc/default/apache-htcacheclean
+New size: 556
+New permissions: 100644
+New user: root (0)
+New group: root (0)
+New MD5: ae8721a0bc5b4e2ef7a5258b1e9db5c5
+New SHA1: a29ad4601aedd57bd062f313ebbcfa36efcafd16
+New date: Tue Apr  5 23:15:01 2016
+New inode: 274591
+
+** Alert 1515884444.486: - ossec,syscheck,pci_dss_11.5,gpg13_4.11,
+2018 Jan 14 00:00:44 rshad->syscheck
+Rule: 554 (level 5) -> 'File added to the system.'
+New file '/etc/default/ssh' added to the file system.
+File: /etc/default/ssh
+New size: 133
+New permissions: 100644
+New user: root (0)
+New group: root (0)
+New MD5: 500e3cf069fe9a7b9936108eb9d9c035
+New SHA1: 42b2875425b3083a20f9954ff1dae327d8f199b5
+New date: Thu Mar 16 14:38:37 2017
+New inode: 273279
+
+** Alert 1515884448.942: - ossec,syscheck,pci_dss_11.5,gpg13_4.11,
+2018 Jan 15 00:00:48 rshad->syscheck
+Rule: 554 (level 5) -> 'File added to the system.'
+New file '/etc/cron.d/php' added to the file system.
+File: /etc/cron.d/php
+New size: 670
+New permissions: 100644
+New user: root (0)
+New group: root (0)
+New MD5: 9a13f6612b6ee729da4fec9c2981d692
+New SHA1: ea48d43d195329a82e20d19d13d0d78b89be8f8f
+New date: Tue Mar  1 16:28:59 2016
+New inode: 274593
+
+** Alert 1515884442.0: - ossec,syscheck,pci_dss_11.5,gpg13_4.11,
+2018 Jan 15 00:00:42 rshad->syscheck
+Rule: 554 (level 5) -> 'File added to the system.'
+New file '/etc/default/apache-htcacheclean' added to the file system.
+File: /etc/default/apache-htcacheclean
+New size: 556
+New permissions: 100644
+New user: root (0)
+New group: root (0)
+New MD5: ae8721a0bc5b4e2ef7a5258b1e9db5c5
+New SHA1: a29ad4601aedd57bd062f313ebbcfa36efcafd16
+New date: Tue Apr  5 23:15:01 2016
+New inode: 274591
+
+** Alert 1515884444.486: - ossec,syscheck,pci_dss_11.5,gpg13_4.11,
+2018 Jan 15 00:00:44 rshad->syscheck
+Rule: 554 (level 5) -> 'File added to the system.'
+New file '/etc/default/ssh' added to the file system.
+File: /etc/default/ssh
+New size: 133
+New permissions: 100644
+New user: root (0)
+New group: root (0)
+New MD5: 500e3cf069fe9a7b9936108eb9d9c035
+New SHA1: 42b2875425b3083a20f9954ff1dae327d8f199b5
+New date: Thu Mar 16 14:38:37 2017
+New inode: 273279
+
+** Alert 1515884448.942: - ossec,syscheck,pci_dss_11.5,gpg13_4.11,
+2018 Jan 15 00:00:48 rshad->syscheck
+Rule: 554 (level 5) -> 'File added to the system.'
+New file '/etc/cron.d/php' added to the file system.
+File: /etc/cron.d/php
+New size: 670
+New permissions: 100644
+New user: root (0)
+New group: root (0)
+New MD5: 9a13f6612b6ee729da4fec9c2981d692
+New SHA1: ea48d43d195329a82e20d19d13d0d78b89be8f8f
+New date: Tue Mar  1 16:28:59 2016
+New inode: 274593
+
+** Alert 1515884442.0: - ossec,syscheck,pci_dss_11.5,gpg13_4.11,
+2018 Jan 16 00:00:42 rshad->syscheck
+Rule: 554 (level 5) -> 'File added to the system.'
+New file '/etc/default/apache-htcacheclean' added to the file system.
+File: /etc/default/apache-htcacheclean
+New size: 556
+New permissions: 100644
+New user: root (0)
+New group: root (0)
+New MD5: ae8721a0bc5b4e2ef7a5258b1e9db5c5
+New SHA1: a29ad4601aedd57bd062f313ebbcfa36efcafd16
+New date: Tue Apr  5 23:15:01 2016
+New inode: 274591
+
+** Alert 1515884444.486: - ossec,syscheck,pci_dss_11.5,gpg13_4.11,
+2018 Jan 16 00:00:44 rshad->syscheck
+Rule: 554 (level 5) -> 'File added to the system.'
+New file '/etc/default/ssh' added to the file system.
+File: /etc/default/ssh
+New size: 133
+New permissions: 100644
+New user: root (0)
+New group: root (0)
+New MD5: 500e3cf069fe9a7b9936108eb9d9c035
+New SHA1: 42b2875425b3083a20f9954ff1dae327d8f199b5
+New date: Thu Mar 16 14:38:37 2017
+New inode: 273279
+
+** Alert 1515884448.942: - ossec,syscheck,pci_dss_11.5,gpg13_4.11,
+2018 Jan 16 00:00:48 rshad->syscheck
+Rule: 554 (level 5) -> 'File added to the system.'
+New file '/etc/cron.d/php' added to the file system.
+File: /etc/cron.d/php
+New size: 670
+New permissions: 100644
+New user: root (0)
+New group: root (0)
+New MD5: 9a13f6612b6ee729da4fec9c2981d692
+New SHA1: ea48d43d195329a82e20d19d13d0d78b89be8f8f
+New date: Tue Mar  1 16:28:59 2016
+New inode: 274593
