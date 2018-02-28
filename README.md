@@ -1,3 +1,5 @@
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)(https://github.com/rshad/Extract-Information-from-Log-files-using-Python/blob/master/LICENSE)
+
 # Extract data from Log file and Parse it using Python
 
 ### Project Description
