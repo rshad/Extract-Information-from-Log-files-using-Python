@@ -5,9 +5,9 @@
 Extract the last alert, found after a data, given as parameter. In this case the file is .log file, and was tested with Wazuh agent log file.
 
 ### Directory structure
-* In /src you can find the source code of the script.
-* In /output you can find an example of the output after running the script
-* In /data you can find the log file to be parsed.
+* In `/src` you can find the source code of the script.
+* In `/output` you can find an example of the output after running the script
+* In `/data` you can find the log file to be parsed.
 
 ### How to run it
 An example to run the log, can be like:
