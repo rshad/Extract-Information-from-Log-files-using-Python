@@ -2,7 +2,7 @@
 # Extract data from Log file and Parse it using Python
 
 ### Project Description
-Extract the last alert, found after a data, given as parameter. In this case the file is .log file, and was tested with Wazuh agent log file.
+Extract the last alert, found after a date, given as a parameter. In this case the file is .log file, and was tested with Wazuh agent log file.
 
 ### Directory structure
 * In `/src` you can find the source code of the script.
