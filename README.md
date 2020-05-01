@@ -2,7 +2,7 @@
 # Extract data from Log file and Parse it using Python
 
 ### Project Description
-In this project I designed a python script to parse a log file (file.log) and extract determined data for a determined fields of the file.
+Extract the last alert, found after a data, given as parameter. In this case the file is .log file, and was tested with Wazuh agent log file.
 
 ### Directory structure
 * In /src you can find the source code of the script.
